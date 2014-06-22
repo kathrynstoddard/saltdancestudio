@@ -1,6 +1,41 @@
+p, h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+
+#about {
+	h2 {
+		margin-bottom: 35px;
+	}
+}
+
+#company {
+	p {
+		margin-bottom: 25px;
+	}
+	h2 {
+		margin-bottom: 35px;
+	}
+	h3 {
+		margin-top: 15px;
+	}
+}
 #events {
 	p {
 		font-size: 1.25em;
+		margin-bottom: 10px;
+	}
+
+	h2 {
+		margin-bottom: 25px;
+	}
+
+	h4 {
+		margin-bottom: 15px;
+		margin-top: 20px;
+	}
+
+	h5 {
+		margin-top: 15px;
 	}
 
 	.btn {

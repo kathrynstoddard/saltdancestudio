@@ -1,4 +1,25 @@
+p, h1, h2, h3, h4, h5, h6 {
+  margin: 0; }
+
+#about h2 {
+  margin-bottom: 35px; }
+
+#company p {
+  margin-bottom: 25px; }
+#company h2 {
+  margin-bottom: 35px; }
+#company h3 {
+  margin-top: 15px; }
+
 #events p {
-  font-size: 1.25em; }
+  font-size: 1.25em;
+  margin-bottom: 10px; }
+#events h2 {
+  margin-bottom: 25px; }
+#events h4 {
+  margin-bottom: 15px;
+  margin-top: 20px; }
+#events h5 {
+  margin-top: 15px; }
 #events .btn {
   margin-bottom: 25px; }
