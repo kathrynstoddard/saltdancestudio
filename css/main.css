@@ -4,22 +4,37 @@ p, h1, h2, h3, h4, h5, h6 {
 #about h2 {
   margin-bottom: 35px; }
 
-#company p {
-  margin-bottom: 25px; }
-#company h2 {
-  margin-bottom: 35px; }
-#company h3 {
-  margin-top: 15px; }
+#company {
+  margin: -150px 0; }
+  #company p {
+    margin-bottom: 25px; }
+  #company h2 {
+    margin-bottom: 35px; }
+  #company h3 {
+    margin-top: 15px; }
 
-#events p {
-  font-size: 1.25em;
-  margin-bottom: 10px; }
-#events h2 {
-  margin-bottom: 25px; }
-#events h4 {
-  margin-bottom: 15px;
-  margin-top: 20px; }
-#events h5 {
-  margin-top: 15px; }
-#events .btn {
-  margin-bottom: 25px; }
+#events {
+  margin: -150px 0; }
+  #events p {
+    font-size: 1.25em;
+    margin-bottom: 10px; }
+  #events h2 {
+    margin-bottom: 25px; }
+  #events h4 {
+    margin-bottom: 15px;
+    margin-top: 20px; }
+  #events h5 {
+    margin-top: 15px; }
+  #events .btn {
+    margin-bottom: 25px; }
+
+#contact {
+  margin-top: -150px;
+  margin-bottom: 75px; }
+  #contact h2 {
+    margin-bottom: 50px; }
+  #contact h3 {
+    margin-bottom: 25px; }
+
+.footer h6 {
+  padding-bottom: 10px; }
